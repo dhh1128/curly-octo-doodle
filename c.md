@@ -1,0 +1,7 @@
+# Cultivar
+
+A cultivar (cultivated variety) is an assemblage of plants selected for desirable characteristics that are maintained during propagation. More generally, a cultivar is the most basic classification category of cultivated plants in the International Code of Nomenclature for Cultivated Plants (ICNCP). Most cultivars arise in cultivation, but some are from wild plants that have distinctive characteristics.
+
+Popular ornamental garden plants like roses, camellias, daffodils, rhododendrons, and azaleas are cultivars produced by breeding and selection or as sports, for floral colour or size, plant form, or other desirable characteristics. Similarly, the world's agricultural food crops are almost exclusively cultivars that have been selected for characters such as improved yield, flavour, and resistance to disease, and very few wild plants are now used as food sources. Trees used in forestry are also special selections grown for their enhanced quality and yield of timber.
+
+Cultivars form a major part of Liberty Hyde Bailey's broader group, the cultigen, which is defined as a plant whose origin or selection is primarily due to intentional human activity. A cultivar is not the same as a botanical variety, which is a taxonomic rank below subspecies, and there are differences in the rules for creating and using the names of botanical varieties and cultivars. In recent times, the naming of cultivars has been complicated by the use of statutory patents for plants and recognition of plant breeders' rights.
